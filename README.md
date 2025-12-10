@@ -19,7 +19,7 @@ CAD Model:
 
 It was made in fusion360 pretty nifty stuff.
 
-Part BOM
+Part BOM:
 
 1x xiao at $4.30/per. 
 
