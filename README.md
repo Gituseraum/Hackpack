@@ -10,7 +10,9 @@ Schematic	PCB
 Scematic overview
 Everything fits together using 4 M3 Heatset inserts and 4 M3x16mm screws. Here's how it looks:
 <img width="644" height="486" alt="Screenshot 2025-12-04 202718" src="https://github.com/user-attachments/assets/d00c3ba7-c258-4f84-8f20-d819dd3fb843" />
+
 CAD Model:
+
 <img width="833" height="611" alt="Screenshot 2025-12-10 140858" src="https://github.com/user-attachments/assets/9e50b02a-87fe-4847-a84e-19e4c038b6f0" />
 
 It was made in fusion360 pretty nifty stuff.
