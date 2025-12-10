@@ -7,7 +7,9 @@ Schematic	PCB
 
 [ x ] I ran DRC in KiCad and have made sure there are 0 errors!
 <img width="761" height="625" alt="Screenshot 2025-12-04 202734" src="https://github.com/user-attachments/assets/03f9dc96-f870-4407-81ef-4e6a6fcf04de" />
+
 Scematic overview
+
 Everything fits together using 4 M3 Heatset inserts and 4 M3x16mm screws. Here's how it looks:
 <img width="644" height="486" alt="Screenshot 2025-12-04 202718" src="https://github.com/user-attachments/assets/d00c3ba7-c258-4f84-8f20-d819dd3fb843" />
 
