@@ -22,11 +22,19 @@ It was made in fusion360 pretty nifty stuff.
 Part BOM
 
 1x xiao at $4.30/per. 
+
 1x PCB from JLCPCB
+
 $2 for 5x + $1.50 shipping
+
 4x Blank DSA keycaps (LCSC) $0.44 (min order 5)
+
 4x MX-Style switches
+
 1x0.91 inch OLED displays
+
 4x M3x16mm screws
+
 4x M3x5mx4mm heatset inserts
+
 3d Printed parts- useing my printer
