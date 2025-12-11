@@ -15,7 +15,7 @@ Everything fits together using 4 M3 Heatset inserts and 4 M3x16mm screws. Here's
 
 CAD Model:
 
-<img width="833" height="611" alt="Screenshot 2025-12-10 140858" src="https://github.com/user-attachments/assets/9e50b02a-87fe-4847-a84e-19e4c038b6f0" />
+<img width="890" height="645" alt="Screenshot 2025-12-10 204825" src="https://github.com/user-attachments/assets/82673ab2-589a-4159-98d2-6daf8fcdb06c" />
 
 It was made in fusion360 pretty nifty stuff.
 
